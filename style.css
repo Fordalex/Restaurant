@@ -8,7 +8,8 @@ body {
 .button1 {
 	color:white;
     background-color:rgba(0,0,0,0);
-    border-color:rgba(0,0,0,0);    
+    border-color:rgba(0,0,0,0);  
+    
 }
 .header {
 	color:white;
@@ -29,13 +30,35 @@ button:hover {
     border:solid white 2px;
     border-radius:5px;
     padding:20px 20px;
+    
 }
 .under-title {
 	color:white;
     font-family:Courier New;
     font-style:italic;
 }
+
 #left {
-	text-align
+	text-align;
 }
 
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+ 
+}
+
+a:hover {
+  text-decoration: none;
+  color:rgb(60,60,60);
+}
+
+a:active {
+  text-decoration: none;
+  color: white;
+}
