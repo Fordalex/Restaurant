@@ -62,3 +62,8 @@ a:active {
   text-decoration: none;
   color: white;
 }
+#buttonfont {
+  text-decoration:none;
+  color:white;
+  font-size:70%;
+}
