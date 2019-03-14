@@ -58,6 +58,7 @@ a:hover {
   color:rgb(60,60,60);
 }
 
+<<<<<<< HEAD
 a:active {
   text-decoration: none;
   color: white;
@@ -67,3 +68,5 @@ a:active {
   color:white;
   font-size:70%;
 }
+=======
+>>>>>>> 382b23e4778588cc7b75777edfdf7ad8a9e00e74
