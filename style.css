@@ -39,3 +39,8 @@ button:hover {
 	text-align
 }
 
+#buttonfont {
+  text-decoration:none;
+  color:white;
+  font-size:70%;
+}
