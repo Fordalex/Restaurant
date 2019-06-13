@@ -5,4 +5,8 @@ I made this a while back now, just adding a read me to this project as i need so
 
 ---
 
+## Link to the website
+
+https://fordalex.github.io/Restaurant/
+
 I created this only as a test and will propably never use it again, unless i need to test silly things like i'm doing now.
